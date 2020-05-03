@@ -16,4 +16,6 @@ const persona = {
 console.log(persona)
 console.log(persona.nombre)
 console.log(persona.musica[1])
+
+// * OTHER FORM TO GET AN ELMENT FROM THE OBJECT
 console.log(persona['hogar']['ciudad'])
